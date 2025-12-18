@@ -25,6 +25,7 @@ Year and month of sales
 Vehicle category (2-Wheeler, 3-Wheeler, 4-Wheeler, Others)
 
 EV vehicle class (E-scooter, E-rickshaw, Electric car, etc.)
+
 CSV file: https://github.com/deevenaande/EV-adoption-India-Dashboard/blob/main/Electric_Vehicle_Sales_India.csv
 
 📈 Key Insights
@@ -56,3 +57,4 @@ Interactive dashboards with slicers and KPIs
 ✨ Conclusion
 
 This project demonstrates how units sold alone can provide meaningful insights into market adoption trends. It also marks my first step into building interactive dashboards using Power BI, focusing on clarity, storytelling, and real-world relevance.
+https://github.com/deevenaande/EV-adoption-India-Dashboard/blob/main/Dashboard%20Screenshot.png
