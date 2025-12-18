@@ -54,6 +54,10 @@ Time-series analysis
 
 Interactive dashboards with slicers and KPIs
 
+🔗 **Live Interactive Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiNmRlMzI0NGEtZWVhZS00MThiLWIzY2UtYTM0YjA2ODczODE5IiwidCI6IjcwNTk5MDQyLTYzYTMtNGM2OS1hNGFlLWNlZWM0OWM1YzA4MCJ9
+
+
 ✨ Conclusion
 
 This project demonstrates how units sold alone can provide meaningful insights into market adoption trends. It also marks my first step into building interactive dashboards using Power BI, focusing on clarity, storytelling, and real-world relevance.
