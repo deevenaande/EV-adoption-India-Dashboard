@@ -25,7 +25,7 @@ Year and month of sales
 Vehicle category (2-Wheeler, 3-Wheeler, 4-Wheeler, Others)
 
 EV vehicle class (E-scooter, E-rickshaw, Electric car, etc.)
-
+CSV file: https://github.com/deevenaande/EV-adoption-India-Dashboard/blob/main/Electric_Vehicle_Sales_India.csv
 
 📈 Key Insights
 
